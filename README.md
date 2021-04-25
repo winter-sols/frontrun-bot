@@ -1,5 +1,7 @@
 # frontrun-bot
 Frontrun Bot for Uniswap &amp; Pancakeswap
+**someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz"
+
 
 BUY: https://enzypt.io/ORxEwb8wTkJqwXFIHbIRqt6PAlPRxwIL/gHup1lD6nrPFCKfmJfKXD8j1FG3Br5BifAZLc41CHYA
 
