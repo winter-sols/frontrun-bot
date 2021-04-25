@@ -3,9 +3,14 @@ Frontrun Bot for Uniswap &amp; Pancakeswap
 **someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz"
 
 
-BUY: https://enzypt.io/ORxEwb8wTkJqwXFIHbIRqt6PAlPRxwIL/gHup1lD6nrPFCKfmJfKXD8j1FG3Br5BifAZLc41CHYA
+BUY CLI Version: https://enzypt.io/ORxEwb8wTkJqwXFIHbIRqt6PAlPRxwIL/gHup1lD6nrPFCKfmJfKXD8j1FG3Br5BifAZLc41CHYA
+
+BUY GUI Version (easy to use): https://enzypt.io/rHPCQHQSLVRLKjcrw8v5S2AdzZ7JHjPD/wLF_rt-0LD9uRweCpBn4T6wDL1E-UZH4rTRttq6JNjE
 
 
+**BUIDL with nodejs**
+
+Telegram: @casanva
 
 
 
@@ -18,9 +23,6 @@ BUY: https://enzypt.io/ORxEwb8wTkJqwXFIHbIRqt6PAlPRxwIL/gHup1lD6nrPFCKfmJfKXD8j1
 
 
 
-**BUIDL with nodejs**
-
-Telegram: @casanva
 
 
 
