@@ -1,5 +1,7 @@
 # frontrun-bot
-Frontrun Bot for Uniswap &amp; Pancakeswap
+Frontrun Bot for Uniswap &amp; Pancakeswap v2
+
+
 **someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz"
 
 
@@ -17,8 +19,10 @@ Telegram: @casanva
 
 
 
-![Alt text](Untitled.jpg)
+![Alt text](pancakerouterv2.gif)
 ![Alt text](testv03.gif)
+![Alt text](Untitled.jpg)
+
 
 
 
