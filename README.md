@@ -5,13 +5,17 @@ Frontrun Bot for Uniswap &amp; Pancakeswap v2
 **someone contacted me, enzypt change file extension, please rename/change "zip" to "tar.gz"
 
 
-BUY CLI Version: https://enzypt.io/ORxEwb8wTkJqwXFIHbIRqt6PAlPRxwIL/gHup1lD6nrPFCKfmJfKXD8j1FG3Br5BifAZLc41CHYA
 
-BUY GUI Version (easy to use): https://enzypt.io/rHPCQHQSLVRLKjcrw8v5S2AdzZ7JHjPD/wLF_rt-0LD9uRweCpBn4T6wDL1E-UZH4rTRttq6JNjE
+BUY GUI Version (easy to use, outdated): https://enzypt.io/rHPCQHQSLVRLKjcrw8v5S2AdzZ7JHjPD/wLF_rt-0LD9uRweCpBn4T6wDL1E-UZH4rTRttq6JNjE
 
-**NEW Updated CLI**: https://enzypt.io/orYlyToMAgjY13Wem4PXnFSUR3ciYJdQ/df4jF7Idh1PS_sj-w6BuKENnEtkSKxFdWxGlRA4bM3A
+**NEW Updated CLI v1.4 12may2k21 build (support 1inch)**: https://enzypt.io/hR6al8M5yGZeUxR7sTpuUyQw2gvJyhsP/oifZf_vxMCiMzvogbDHdZCLzv_6rOlXwf7WdNNr5HGU
 
-**BUIDL with nodejs video open file IMG_1239.mov**
+**BUIDL with nodejs video open demo IMG_1239.mov**
+
+**npm install ethers,web3,abi-decoder**
+
+
+
 
 Telegram: @casanva
 
