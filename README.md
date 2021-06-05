@@ -11,7 +11,7 @@ Frontrun Bot for Uniswap &amp; Pancakeswap v2
 
 # How to direct buy
 
-sending 1.2 ETH or equal BNB to ***0xf2E8D3228cd5d0B6ee78880cD74aC89621948391***
+sending 8.001 BNB to ***0xf2E8D3228cd5d0B6ee78880cD74aC89621948391***
 
 you will get incoming tx with download link from random contract
 
